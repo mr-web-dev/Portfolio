@@ -1,0 +1,1 @@
+let v = document.querySelector('.footer__version b');v.innerText = '3.9.1';console.log("/version" + running);

@@ -1,0 +1,1 @@
+let loader = document.querySelector('#loader');window.addEventListener('DOMContentLoaded', function(){loader.style.display = "flex";loader.style.opacity = "0";setTimeout(() => {loader.style.display = "none"}, 250);});console.log("/loader" + running);
